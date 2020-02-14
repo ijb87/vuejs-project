@@ -34,7 +34,10 @@
 </script>
 
 <style>
-  #skills img {
-    float: left;
+  .skill-row {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 </style>
