@@ -35,9 +35,16 @@
 
 <style>
   .skill-row img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    float: left;
+    padding: 20px;
+    width: 95px
+  }
+  .skill-row h3 {
+    margin-top: 100px;
+  }
+  .skill-row p {
+    text-align: justify;
+    word-break: break-word;
+    font-size: 16px;
   }
 </style>
