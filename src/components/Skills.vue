@@ -2,7 +2,7 @@
   <div class="skills">
     <h2>My Skills.</h2>
     <div class="skill-row" v-for="(obj, key) in skillsJSON" :key="key">
-      <span> {{ obj.img }}</span>
+      <img :src="obj.img" />
       <h3>{{ obj.subtitle }}</h3>
       <p>{{ obj.paragraph }}</p>
     </div>
