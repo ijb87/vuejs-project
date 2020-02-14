@@ -34,7 +34,7 @@
 </script>
 
 <style>
-  .skill-row {
+  .skill-row img {
     display: block;
     margin-left: auto;
     margin-right: auto;
