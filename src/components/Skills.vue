@@ -32,3 +32,9 @@
     })
   }
 </script>
+
+<style>
+  #skills img {
+    float: left;
+  }
+</style>
